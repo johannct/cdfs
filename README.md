@@ -1,4 +1,4 @@
-# cdfsCHADRA DEEP FIELD SOUTH
+# CHANDRA DEEP FIELD SOUTH
 
 """"
 2Msec_Feb08_v2.1_master_primary.scat  ECDFS_master_primary_v5.1.scat :
